@@ -1,2 +1,2 @@
-# Sumant
-C programs
+# sumant
+c program
